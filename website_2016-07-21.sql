@@ -6,7 +6,7 @@
 # https://github.com/sequelpro/sequelpro
 #
 # Host: 127.0.0.1 (MySQL 5.5.5-10.1.10-MariaDB)
-# Datenbank: website
+# Datenbank: questionmate
 # Erstellt am: 2016-07-21 20:01:45 +0000
 # ************************************************************
 
