@@ -1,10 +1,10 @@
 package questionmate
 
-class Survey {
-
+class Answer {
+    UUID id
+    Survey survey
     User user
-    String name
-
+    String Answer
 
     static constraints = {
     }
