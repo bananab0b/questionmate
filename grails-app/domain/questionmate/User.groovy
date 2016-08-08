@@ -16,7 +16,6 @@ class User {
     }
 
     static mapping = {
-        id column: User_ID
         id generator: 'uuid'
     }
 }
